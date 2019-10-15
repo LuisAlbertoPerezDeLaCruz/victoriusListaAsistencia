@@ -1,0 +1,7 @@
+{
+  "name": "victoriusListaAsistencia",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
